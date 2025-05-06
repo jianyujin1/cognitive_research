@@ -1,8 +1,8 @@
-# 🧠 A Multimodal Interactive-Agent Framework for Inclusive and Personalized Early Dementia Assessment Using Online and Offline Cognitive Tasks
+# 🧠 An AI-Driven Multimodal Agent for Inclusive and Personalized Early Dementia Screening Across Online and Offline Interface
 
 ## Cognitive Assessment System Overview (Digital health application | Tailored Twoard Seniors for Conitive Sccreening and Improvement 
 
-This README explains the full end-to-end cognitive assessment system, covering both **online adaptive assessments** and **offline OCR-based uploads**. It includes real-time scoring, adaptive logic, performance trend analysis, and Gradio UIs.
+This README explains cognitive assessment system draft, covering both **online adaptive assessments** and **offline OCR-based uploads**. It includes real-time scoring, adaptive logic, performance trend analysis, and Gradio UIs.
 
 ---
 
