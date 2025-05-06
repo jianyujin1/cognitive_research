@@ -58,7 +58,6 @@ with these fields:
 
 If previous and current scores exist:
 - Trend detected → Generates LLM summary (e.g., "⬆️ Improved by +0.20")
-- If error occurs or no model: fallback feedback message
 
 ---
 
