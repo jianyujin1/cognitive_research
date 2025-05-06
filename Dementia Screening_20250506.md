@@ -88,6 +88,7 @@ python your_ui_script.py
 
 ![image](https://github.com/user-attachments/assets/10cdac4e-31a1-4b2d-a46f-634e8ec5836b)
 ![image](https://github.com/user-attachments/assets/ac6439d4-3b33-4ebd-afd4-b35672223aea)
+![image](https://github.com/user-attachments/assets/a0751d57-e150-4cc7-84a5-45016bf32a57)
 
 ---
 
